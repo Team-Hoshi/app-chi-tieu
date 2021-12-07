@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709440688669",
+    "firebase_url": "https://budget-chuan-default-rtdb.firebaseio.com/",
+    "project_id": "budget-chuan",
+    "storage_bucket": "budget-chuan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709440688669:android:ccf46885da2db0a68d6cf4",
+        "android_client_info": {
+          "package_name": "com.willteksoftwares.personalbudgetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709440688669-39mi1tlnjil50urdfb1kfbv31ar7rt78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.willteksoftwares.personalbudgetingapp",
+            "certificate_hash": "c1e8a1c6a2754b9763a43315eb43328a5e7e4388"
+          }
+        },
+        {
+          "client_id": "709440688669-buq6eoed451s63i0s40p5367sia1l94r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXA9KQlitOQnUDgEP4W_56-tkptD9d0dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709440688669-buq6eoed451s63i0s40p5367sia1l94r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
